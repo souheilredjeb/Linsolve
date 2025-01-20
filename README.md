@@ -80,15 +80,10 @@ This is the first version of the simplex method solver. Future improvements may 
 - Performance optimizations for large-scale problems.
 - Integration with other mathematical libraries.
 
-## Contributions
-
-Contributions are welcome! Please feel free to fork the repository and submit pull requests with enhancements or bug fixes.
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details. For commercial use cases, please contact the project maintainers to discuss terms and permissions.
 
-## Acknowledgments
 
-Thanks to all contributors and the open-source community for supporting this project.
 
